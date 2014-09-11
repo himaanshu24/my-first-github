@@ -1,0 +1,6 @@
+OTHER                 = CUSTOM_TTY
+CUSTOM_TTY            = "/dev/ttyUSB3"
+APN                   = CUSTOM_APN
+CUSTOM_APN            = "internet"
+APN_USER              = "internet"
+APN_PASS              = "internet"
